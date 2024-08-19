@@ -30,11 +30,6 @@ To run this game, you need Python installed on your system. There are no additio
 
 ## How to Run:
 --------------
-First you need to download requirement libraries:
-  ```
-  pip install -r requirements.txt
-  ```
-
 1. Save the code to a file, for example, `rps.py`.
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing `rps.py`.
