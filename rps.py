@@ -3,6 +3,15 @@ import time
 
 
 def tas_kagit_makas_RecepBATTAL():
+    """
+    This function is a normal rock-paper-scissors game with the addition of
+    lizard and Spock. The game is played between the player and the computer.
+    The player can choose between rock, paper, scissors, lizard, and Spock.
+    The computer randomly selects one of these options. The game is played
+    until one of the players win the first 2 matches. The player can exit the
+    game at any time by typing 'exit'. After each game, the player can choose
+    to play another game.
+    """
     options = ["rock", "paper", "scissors", "lizard", "spock", "exit"]
 
     print("Welcome to Rock, Paper, Scissors, Lizard, Spock Game!")
