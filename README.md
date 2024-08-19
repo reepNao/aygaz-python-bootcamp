@@ -1,7 +1,7 @@
-# Rock, Paper, Scissors, Lizard, Spock Game:
+# Rock, Paper, Scissors:
 --------------------------------------------
 
-Welcome to the "Rock, Paper, Scissors, Lizard, Spock" game!
+Welcome to the "Rock, Paper, Scissors" game!
 
 ## Overview:
 ------------
